@@ -1,46 +1,27 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/catherine-hero.svg" width="100%" alt="Catherine, AI Product Builder and Indie Developer — build useful things and make them slightly strange">
+</p>
 
-# Hi, I'm Catherine 👋
+## 01 · About
 
-**AI Product Builder × Indie Developer**
+Building AI products and developer tools.<br>
+Turning ideas into small, useful systems.<br>
+功能正常，表达就不正常。
 
-用 AI 把想法做成真正可用的产品。
+## 02 · Absurdity
 
-</div>
+A little absurdity makes life more interesting. This skill turns ordinary content into something unexpectedly fun.<br>
+抽象是一种态度，生活不能没有抽象。本 skill 负责量产这种态度。
 
-## About me
-
-- Building AI products and developer tools / 正在构建 AI 产品与开发者工具
-- Working with Python, TypeScript, React, Next.js, and AI/LLM systems
-- I like products that are simple, useful, and a little unconventional  
-  喜欢简单、实用，也带一点怪趣味的产品
-
-## Featured project
-
-### [Abstractify](https://github.com/CatherineHasAGun/abstractify)
-
-An AI-assisted toolkit for turning ordinary content into playful Chinese internet-style creative content.  
-一个把普通内容转化为中文互联网趣味创作的 AI 辅助工具，目前持续构建中。
+[Explore Abstractify →](https://github.com/CatherineHasAGun/abstractify)
 
 `Currently building` · `Python` · `AI/LLM`
 
-[Explore the project →](https://github.com/CatherineHasAGun/abstractify)
+### Tech
 
-## Tech
+`Python` · `TypeScript` · `React` · `Next.js` · `AI/LLM`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![AI / LLM](https://img.shields.io/badge/AI%20%2F%20LLM-6C63FF?style=flat)
-
-Python · TypeScript · React · Next.js · AI/LLM
-
-## GitHub
-
-![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatherineHasAGun&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
-
-## Connect
+### Connect
 
 - GitHub: [@CatherineHasAGun](https://github.com/CatherineHasAGun)
 - Email: [zhangxhpro@gmail.com](mailto:zhangxhpro@gmail.com)
