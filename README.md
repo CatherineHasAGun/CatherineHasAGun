@@ -13,7 +13,7 @@ Turning ideas into small, useful systems.<br>
 A little absurdity makes life more interesting. This skill turns ordinary content into something unexpectedly fun.<br>
 抽象是一种态度，生活不能没有抽象。本 skill 负责量产这种态度。
 
-[Explore Abstractify →](https://github.com/CatherineHasAGun/abstractify)
+[Explore Absurdity →](https://github.com/CatherineHasAGun/absurdity)
 
 `Currently building` · `Python` · `AI/LLM`
 
