@@ -6,7 +6,6 @@
 
 Building AI products and developer tools.<br>
 Turning ideas into small, useful systems.<br>
-功能正常，表达就不正常。
 
 ## 02 · Absurdity Skill
 
@@ -20,9 +19,3 @@ A little absurdity makes life more interesting. This skill turns ordinary conten
 ### Tech
 
 `Python` · `TypeScript` · `React` · `Next.js` · `AI/LLM`
-
-### Connect
-
-- GitHub: [@CatherineHasAGun](https://github.com/CatherineHasAGun)
-- Email: [zhangxhpro@gmail.com](mailto:zhangxhpro@gmail.com)
-- WeChat: Ablaze-and-Luna
